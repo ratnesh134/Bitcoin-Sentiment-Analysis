@@ -26,4 +26,5 @@ Focus on strategies that exploit Greed and Extreme Greed regimes. Study contrari
 ## Limitations & Next Steps
 Results are based on historical data; future market conditions may differ. Transaction costs, slippage, and leverage effects are not fully accounted for.
 
-## Future work: Incorporate more features (volatility, volume), apply machine learning, and explore regime-switching models.
+## Future work:
+Incorporate more features (volatility, volume), apply machine learning, and explore regime-switching models.
